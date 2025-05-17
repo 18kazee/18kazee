@@ -1,16 +1,17 @@
-## Hi there 👋
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,vue,php,ruby,vite" />
 
-<!--
-**18kazee/18kazee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Infrastructure 
+<img src="https://skillicons.dev/icons?i=firebase,aws,heroku,docker"/>
 
-Here are some ideas to get you started:
+## Databases
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks
+<img src="https://skillicons.dev/icons?i=next,nuxt,laravel,rails" />
+※Another skill Codeigniter,
+
+## Tools
+<img src="https://skillicons.dev/icons?i=github,gitlab,vim,neovim,vscode,discord" />
+<br /><br />
+
